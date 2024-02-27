@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Constraint satisfaction problems allow various contains to be enforced to solve a problem. This project demonstrates constraint satisfactions ued to solve Sudoku.
+Constraint satisfaction problems allow various constraints to be enforced in-order solve a problem. This project demonstrates constraint satisfactions used to solve Sudoku.
 
 ## Application
 
@@ -16,6 +16,6 @@ Various valid unsolved Sudoku samples are also provided.
 
 ### Invoking Instructions
 
-The program can be loaded with  using `swipl -s main.pl` and solve all provided Sudoku with `main(_).`.
+The program can be loaded with `swipl -s main.pl` and to solve all provided Sudoku use `main(_).`.
 
 This project works with `SWI-Prolog version 9.0.4`.
